@@ -1,3 +1,8 @@
+# Redux Todos !
+I made this with a walkthrough from this resource:
+https://medium.com/@rajaraodv/step-by-step-guide-to-building-react-redux-apps-using-mocks-48ca0f47f9a
+I think I kind of get how to use redux now.
+
 # Redux Todos Example
 
 This project template was built with [Create React App](https://github.com/facebookincubator/create-react-app), which provides a simple way to start React projects with no build configuration needed.
